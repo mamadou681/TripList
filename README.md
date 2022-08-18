@@ -1,3 +1,13 @@
+To run the project
+Run:
+
+### `npm install -g json-server`
+
+In the project directory, you can run:
+
+### `json-server --watch data/db.json --port 8000`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

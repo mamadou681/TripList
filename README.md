@@ -5,7 +5,7 @@ Run:
 
 In the project directory, you can run:
 
-### `json-server --watch data/db.json --port 8000`
+### `json-server --watch data/db.json --port 3000`
 
 
 # Getting Started with Create React App

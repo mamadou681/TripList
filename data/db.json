@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "title": "2 Night Stay in Zambia",
+      "price": "$195",
+      "id": 1,
+      "loc": "Africa"
+    },
+    {
+      "title": "3 Night Stay in Pretoria",
+      "price": "$295",
+      "id": 2,
+      "loc": "Africa"
+    },
+    {
+      "title": "4 Night Stay in Conakry",
+      "price": "$345",
+      "id": 3,
+      "loc": "Africa"
+    },
+    {
+      "title": "3 Night Stay in New York",
+      "price": "$325",
+      "id": 4,
+      "loc": "America"
+    }
+  ]
+}
